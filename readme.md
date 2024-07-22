@@ -9,7 +9,23 @@ Well, this project is mostly for fun and as a long-term endeavor to bring the ma
 
 ## How To Use
 
+1. Clone this repository
 
+```
+git clone https://github.com/ddoddii/spell-shell
+```
+
+2. Run this shell script 
+
+```
+./shell.sh
+```
+
+3. Cast the spell !
+
+<img width="340" alt="image" src="https://github.com/user-attachments/assets/4eb2681f-0a22-4d96-9d12-02ceddbe81c0">
+
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/d6cbb57e-d7b7-4fd8-a862-9a4db36498ca">
 
 ## Spells to Commands
 
